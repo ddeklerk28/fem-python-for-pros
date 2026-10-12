@@ -33,7 +33,7 @@ Daily time allocation: 30 minutes learning and 30 minutes deliberate practice.
 
 By the end of the week, I should be able to:
 
-- [ ] Explain how Python names, objects, assignments, and expressions behave.
+- [X] Explain how Python names, objects, assignments, and expressions behave.
 - [ ] Work with primitive values and understand runtime types.
 - [ ] Import and use relevant standard-library functionality.
 - [ ] Represent a fixed set of states using an enum.
@@ -78,11 +78,11 @@ Complete this section on Sunday.
 
 ### What I learned
 
--
+- Monday (12/10/2026): Python names point to objects, assignments bind names to objects, and expressions dereferences addresses of names to produce values.
 
 ### What I can now do independently
 
--
+- Monday (12/10/2026): I can reason about python names, and how their assignments and expressions behave. I can distinguish this from other languages.
 
 ### What I still find difficult
 
