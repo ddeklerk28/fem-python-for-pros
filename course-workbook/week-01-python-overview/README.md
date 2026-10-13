@@ -86,11 +86,13 @@ Complete this section on Sunday.
 
 ### What I still find difficult
 
--
+- Tuesday (13/10/2026): Revisit the distinction between a type annotation and a value's runtime type, especially why a mismatched annotation does not automatically convert or reject a value.
+- Tuesday (13/10/2026): Explore the different behavior of conversions such as `int("3.5")` and `int(3.5)`.
 
 ### Questions to investigate
 
--
+- Tuesday (13/10/2026): When should I use `import datetime` versus `from datetime import date`, and how does each choice affect the names available in my code?
+- Tuesday (13/10/2026): What does `date.today()` return, and how do comparisons between `date` objects produce a Boolean result?
 
 ### Changes for next week
 
