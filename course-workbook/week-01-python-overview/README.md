@@ -79,21 +79,20 @@ Complete this section on Sunday.
 ### What I learned
 
 - Monday (12/10/2026): Python names point to objects, assignments bind names to objects, and expressions dereferences addresses of names to produce values.
-- Tuesday )
+- Tuesday (13/10/2026): How dynamic types work in python and how to convert to different types. How to import modules and classes from modules. 
 
 ### What I can now do independently
 
 - Monday (12/10/2026): I can reason about python names, and how their assignments and expressions behave. I can distinguish this from other languages.
+- Tuesday (13/10/2026): I am able to predict the values of casting operations and work with imported date class to create due dates etc.
 
 ### What I still find difficult
 
-- Tuesday (13/10/2026): Revisit the distinction between a type annotation and a value's runtime type, especially why a mismatched annotation does not automatically convert or reject a value.
-- Tuesday (13/10/2026): Explore the different behavior of conversions such as `int("3.5")` and `int(3.5)`.
+-
 
 ### Questions to investigate
 
 - Tuesday (13/10/2026): When should I use `import datetime` versus `from datetime import date`, and how does each choice affect the names available in my code?
-- Tuesday (13/10/2026): What does `date.today()` return, and how do comparisons between `date` objects produce a Boolean result?
 
 ### Changes for next week
 
