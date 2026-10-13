@@ -79,6 +79,7 @@ Complete this section on Sunday.
 ### What I learned
 
 - Monday (12/10/2026): Python names point to objects, assignments bind names to objects, and expressions dereferences addresses of names to produce values.
+- Tuesday )
 
 ### What I can now do independently
 
