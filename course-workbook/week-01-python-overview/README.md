@@ -34,9 +34,9 @@ Daily time allocation: 30 minutes learning and 30 minutes deliberate practice.
 By the end of the week, I should be able to:
 
 - [X] Explain how Python names, objects, assignments, and expressions behave.
-- [ ] Work with primitive values and understand runtime types.
-- [ ] Import and use relevant standard-library functionality.
-- [ ] Represent a fixed set of states using an enum.
+- [X] Work with primitive values and understand runtime types.
+- [X] Import and use relevant standard-library functionality.
+- [X] Represent a fixed set of states using an enum.
 - [ ] Write functions with explicit inputs, outputs, and type hints.
 - [ ] Express business rules using conditionals and boolean logic.
 - [ ] Model related data using a dataclass and justify the design choice.
