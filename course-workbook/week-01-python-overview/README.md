@@ -79,16 +79,18 @@ Complete this section on Sunday.
 ### What I learned
 
 - Monday (12/10/2026): Python names point to objects, assignments bind names to objects, and expressions dereferences addresses of names to produce values.
-- Tuesday (13/10/2026): How dynamic types work in python and how to convert to different types. How to import modules and classes from modules. 
+- Tuesday (13/10/2026): How dynamic types work in python and how to convert to different types. How to import modules and classes from modules.
+- Wednesday (14/10/2026): The enum class exposes various types of enums. The difference between the type of the enum and the name, value of it\'s members. The difference between Enum and StrEnum
 
 ### What I can now do independently
 
 - Monday (12/10/2026): I can reason about python names, and how their assignments and expressions behave. I can distinguish this from other languages.
 - Tuesday (13/10/2026): I am able to predict the values of casting operations and work with imported date class to create due dates etc.
+- Wednesday (14/10/2026): I can declare enums and use them to represent a domain's state. 
 
 ### What I still find difficult
 
--
+- Wednesday (14/10/2026): When to use Enum vs StrEnum
 
 ### Questions to investigate
 
