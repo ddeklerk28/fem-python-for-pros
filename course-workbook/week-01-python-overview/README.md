@@ -91,10 +91,12 @@ Complete this section on Sunday.
 ### What I still find difficult
 
 - Wednesday (14/10/2026): When to use Enum vs StrEnum
+- Thursday (15/10/2026): usage of kwargs and the ** syntax
 
 ### Questions to investigate
 
 - Tuesday (13/10/2026): When should I use `import datetime` versus `from datetime import date`, and how does each choice affect the names available in my code?
+- Thursday (15/10/2026): Look into args and ** syntax and any other variants that might exist; Also look into the "*" parameter, to make sure you understand it fully
 
 ### Changes for next week
 
