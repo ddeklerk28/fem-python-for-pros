@@ -1,4 +1,12 @@
 from enum import StrEnum, auto
+from datetime import date
+
+def is_overdue(due_date, _status):
+    if due_date is None:
+        return False
+    if _status == "done":
+        return False
+    return due_date < date.today()
 
 class TaskStatus(StrEnum):
     planned = auto()
