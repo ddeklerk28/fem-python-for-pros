@@ -102,9 +102,9 @@ Do not introduce unnecessary abstractions, dependencies, or advanced techniques 
 
 Correctness matters, but so does the ability to explain the implementation independently.
 
-## 7. Current Curriculum — Week 01
+## 7. Curriculum
 
-**Topic:** Python Overview / Python Fundamentals 1
+### Week 01 — Python Overview
 
 **Weekly outcome:** Build a runnable task status and deadline evaluator by progressively applying Python's fundamental language constructs.
 
@@ -115,6 +115,18 @@ Correctness matters, but so does the ability to explain the implementation indep
 | Wednesday | Enums and task status | `03_task_status.py` |
 | Thursday | Functions, type hints, and conditionals | `04_task_evaluation.py` |
 | Friday | Classes, dataclasses, and integration | `05_task_evaluator.py` |
+
+### Week 02 — Data Structures and Collection Processing
+
+**Weekly outcome:** Build a task collection processor that chooses suitable data structures, iterates and transforms collections, and handles expected errors explicitly.
+
+| Day | Topic | Exercise |
+|---|---|---|
+| Monday | Tuples, sets, and dictionaries | `01_task_collections.py` |
+| Tuesday | Looping through collections | `02_task_lookup.py` |
+| Wednesday | Exceptions and error handling | `03_task_errors.py` |
+| Thursday | Context managers and decorators | `04_resource_management.py` |
+| Friday | Comprehensions and integrated collection processing | `05_task_collection_report.py` |
 
 These are planned learning stages, not mandatory deadlines. The sequence can be adjusted based on the week's progress.
 
@@ -131,7 +143,9 @@ Completion of an exercise does not automatically establish mastery.
 
 ## 9. Current Checkpoint
 
-**Week 01 — Day 01: Completed**
+**Week 01 — Review completed**
+
+Week 01's weekly review is complete. The next session is Week 02, Day 01 — Tuples, sets, and dictionaries.
 
 Exercise: `01_primitive_task_summary.py`
 
@@ -154,8 +168,6 @@ Demonstrated understanding:
 Important learning decision:
 
 Keep each exercise within the concepts introduced so far. For example, do not introduce branching merely to improve singular/plural formatting during the primitive-values exercise.
-
-**Next session:** Week 01, Day 02 — Types and imports.
 
 ## 10. Sunday Review Template
 
