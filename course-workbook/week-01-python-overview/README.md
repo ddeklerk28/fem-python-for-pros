@@ -37,10 +37,10 @@ By the end of the week, I should be able to:
 - [X] Work with primitive values and understand runtime types.
 - [X] Import and use relevant standard-library functionality.
 - [X] Represent a fixed set of states using an enum.
-- [ ] Write functions with explicit inputs, outputs, and type hints.
-- [ ] Express business rules using conditionals and boolean logic.
-- [ ] Model related data using a dataclass and justify the design choice.
-- [ ] Run Python scripts, investigate tracebacks, and debug basic errors.
+- [X] Write functions with explicit inputs, outputs, and type hints.
+- [X] Express business rules using conditionals and boolean logic.
+- [X] Model related data using a dataclass and justify the design choice.
+- [X] Run Python scripts, investigate tracebacks, and debug basic errors.
 - [ ] Integrate the concepts into a working task evaluator.
 
 ## Exercise Requirements
@@ -81,12 +81,16 @@ Complete this section on Sunday.
 - Monday (12/10/2026): Python names point to objects, assignments bind names to objects, and expressions dereferences addresses of names to produce values.
 - Tuesday (13/10/2026): How dynamic types work in python and how to convert to different types. How to import modules and classes from modules.
 - Wednesday (14/10/2026): The enum class exposes various types of enums. The difference between the type of the enum and the name, value of it\'s members. The difference between Enum and StrEnum
+- Thursday (15/10/2026): How to define functions, how to use type hints, how to use conditionals and boolean logic to express business rules.
+- Friday (16/10/2026): How to define classes and dataclasses, how to use them to model related data, and how to integrate the week's concepts into a working program.
 
 ### What I can now do independently
 
 - Monday (12/10/2026): I can reason about python names, and how their assignments and expressions behave. I can distinguish this from other languages.
 - Tuesday (13/10/2026): I am able to predict the values of casting operations and work with imported date class to create due dates etc.
 - Wednesday (14/10/2026): I can declare enums and use them to represent a domain's state. 
+- Thursday (15/10/2026): I can write functions with explicit inputs, outputs, and type hints. I can express business rules using conditionals and boolean logic.
+- Friday (16/10/2026): I can create classes, and utilise dataclasses to deligate some of the boilerplate code.
 
 ### What I still find difficult
 
