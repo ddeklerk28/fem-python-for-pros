@@ -1,5 +1,15 @@
 from enum import StrEnum, auto
 from datetime import date
+from dataclasses import dataclass
+
+@dataclass
+class Project:
+    name: str
+    slug: str
+    archived: bool = False
+
+    def archive(self):
+        self.archived = True
 
 def is_overdue(due_date, _status):
     if due_date is None:
@@ -41,3 +51,4 @@ def archive_project(name, *, notify=False, force=False):
         print(f"Force archive {name}")
     if notify:
         print(f"sent notification for {name}")
+
