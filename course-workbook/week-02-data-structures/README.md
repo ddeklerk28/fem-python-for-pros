@@ -78,7 +78,13 @@ Complete this section during the weekly review.
 
 ### What I learned
 
-- Monday:
+- Monday (19/10/2026):
+  - I understand the differences between list, tuple, set, and dict collections, and when to use each. 
+  - Lists: ordered, mutable, allows duplicates, indexed by position.
+  - Tuples: ordered, immutable, allows duplicates, indexed by position.
+  - Sets: unordered, mutable, unique elements, no indexing.
+  - Dictionaries: unordered, mutable, unique keys, key-value pairs, indexed by key.
+
 - Tuesday:
 - Wednesday:
 - Thursday:
@@ -86,7 +92,8 @@ Complete this section during the weekly review.
 
 ### What I can now do independently
 
-- Monday:
+- Monday (19/10/2026): 
+  - Define and use all four collection types, and explain their differences and use cases.
 - Tuesday:
 - Wednesday:
 - Thursday:
@@ -98,7 +105,8 @@ Complete this section during the weekly review.
 
 ### Questions to investigate
 
--
+- Monday (19/10/2026): 
+  - How Sets are actually useful since they are unordered and cannot be indexed.
 
 ### Changes for next week
 
