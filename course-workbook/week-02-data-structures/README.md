@@ -85,7 +85,11 @@ Complete this section during the weekly review.
   - Sets: unordered, mutable, unique elements, no indexing.
   - Dictionaries: unordered, mutable, unique keys, key-value pairs, indexed by key.
 
-- Tuesday:
+- Tuesday (20/10/2026):
+  - How to loop over different collection.
+  - using .items() to unpack key-value pairs in dictionaries.
+  - use enumeration for indexed looping
+
 - Wednesday:
 - Thursday:
 - Friday:
@@ -94,19 +98,25 @@ Complete this section during the weekly review.
 
 - Monday (19/10/2026): 
   - Define and use all four collection types, and explain their differences and use cases.
-- Tuesday:
+
+- Tuesday (20/10/2026):
+  - Can loop over all collections, use conditions to filter items, and use basic comprehensions.
 - Wednesday:
 - Thursday:
 - Friday:
 
 ### What I still find difficult
 
--
+- Tuesday (20/10/2026): 
+  - Comprehensions will need some more practice to be able to use and read fluently
 
 ### Questions to investigate
 
 - Monday (19/10/2026): 
   - How Sets are actually useful since they are unordered and cannot be indexed.
+- Tuesday (20/10/2026): 
+  - What generator comprehensions are and how they work, and why they are useful. 
+  - investigate the zip() function and how it works, and why it is useful.
 
 ### Changes for next week
 
