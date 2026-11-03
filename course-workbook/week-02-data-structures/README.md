@@ -91,6 +91,9 @@ Complete this section during the weekly review.
   - use enumeration for indexed looping
 
 - Wednesday:
+  - How to handle exceptions and errors in Python, including the use of try-except blocks and specific exception types.
+  - How to raise exceptions deliberately to signal errors in code.
+  - How to raise custom exceptions for specific error conditions.
 - Thursday:
 - Friday:
 
@@ -102,6 +105,7 @@ Complete this section during the weekly review.
 - Tuesday (20/10/2026):
   - Can loop over all collections, use conditions to filter items, and use basic comprehensions.
 - Wednesday:
+  - Can handle exceptions and errors in Python, including the use of try-except blocks and specific exception types.
 - Thursday:
 - Friday:
 
