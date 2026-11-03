@@ -1,15 +1,14 @@
-task = {
-    "age": 37,
-    "first_name": "Dirk",
-    "last_name": "de Klerk"
-}
+def validate_name(name: str) -> str:
+    if not name:
+        raise ValueError("Name cannot be blank")
+    return name.strip()
 
-tasks = [
-    {"title": "Learn Python", "status": "DONE"},
-    {"title": "Review exercises", "status": "TODO"},
-    {"title": "Practice", "status": "DONE"},
-]
+project_name = ""
 
-for index, task in enumerate(tasks, start=1):
-    if task["status"] == "TODO":
-        print(index, task["title"])
+try:
+    valid_name = validate_name(project_name)
+except ValueError:
+
+    valid_name = "DEFAULT_NAME"
+
+print(valid_name)
